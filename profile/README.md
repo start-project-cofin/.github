@@ -5,7 +5,7 @@
 - 프로젝트명 코핀은 'Corona Finish'의 약자로 1년이 넘어가는 코로나 사태를 하루라도 빨리 끝내기를 바라는 기원과 포부를 담아 지었습니다. 코로나 바이러스와 백신에 대한 정보, 국내와 해외의 확진자 추세, 백신 접종시 건강상태 자가 체크 가이드 등을 제공합니다.
 
 ## 개발 기간
-#### 2021. 11. 1 ~ 2021. 12.?? (??주)
+#### 2021. 11. 1 ~ 2022. 01.03 (9주)
 
 + 1주차 : base outline components created
 + 2주차 : importing in csv datasets to create dataform models
