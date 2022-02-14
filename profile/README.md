@@ -7,11 +7,12 @@
 ## 개발 기간
 #### 2021. 11. 1 ~ 2022. 01.03 (9주)
 
-+ 1주차 : base outline components created
-+ 2주차 : importing in csv datasets to create dataform models
-+ 3 ~ 4주차 : implement each function
-+ 5주차 : 
-
++ 1주차 : 아이디어 회의, 프로젝트 기획 확정
++ 2주차 : 역할 분담, 개발환경 세팅
++ 3주차 : DB 모델링, 기초 데이터 수집
++ 4-7주차: 역할 분담에 따른 파트 개발
++ 8주차 : 파트간 호환되는 부분 조정
++ 9주차 : 버그 수정
 
 ## 기술 스택
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=orange"/><br>
@@ -21,5 +22,5 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=yellow"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=critical"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
 
 
-## 팀 소개
+## 팀원 소개
 노준일, 이시원, 이상호, 윤현성
